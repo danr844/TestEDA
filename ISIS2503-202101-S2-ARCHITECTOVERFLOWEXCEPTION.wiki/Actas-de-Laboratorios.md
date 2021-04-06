@@ -113,7 +113,12 @@ Actas de Laboratorio Arquitectura y Diseño de Software 2021-01:
 
 * Contenido
   
-  Organización y distribución de actividades para el Sprint 2.
+  Organización y distribución de actividades para el Sprint 2, a partir de los ASR asignados al grupo:
+
+  | Módulo | ASR | Atributo de calidad |
+  | ------ | --- | ------------------- |
+  | Académico | Como acudiente, dado que el sistema se encuentra en una operatividad alta, cuando solicite descargar el reporte notas de mi acudido, pero obtener el reporte en pdf en un tiempo no mayor a 4 segundos | Latencia |
+  | Académico | 	Como acudiente, dado que el sistema se encuentra en una operatividad alta, cuando solicite descargar el reporte notas de mi acudido, pero obtener el reporte en pdf con un porcentaje de éxito mayor a un 95% de los intentos realizados durante este periodo de saturación. | Disponibilidad |
 
   | Nombre Integrante | Número de actividades Asignadas |  Número de actividades completadas | Comentarios y Compromisos |
   | ----------------- | ------------------------------- | ---------------------------------- | ------------------------- |
