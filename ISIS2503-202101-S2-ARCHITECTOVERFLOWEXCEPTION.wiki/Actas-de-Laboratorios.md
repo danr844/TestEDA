@@ -83,3 +83,45 @@ Actas de Laboratorio Arquitectura y Diseño de Software 2021-01:
   | Revisión modelo de dominio, modelo de componentes, modelo de contexto y modelo de despligue | Todos |
   | Elaboración estructura Wiki | Andrés Ochoa |
   | Completar información de la Wiki | Todos |
+  
+  ## Acta: 12/02/2021
+* Asistentes
+
+   Ángela Liliana Jiménez Flechas <br>
+   Andrés Martin Ochoa Toro <br>
+   Daniel Alejandro Ángel Fuertes <br>
+   Kevin Steven Gámes Abril <br>
+
+* Quién reportó
+
+   Andrés Martin Ochoa
+
+* Contenido
+  * Realizar operaciones básicas CRUD creando vistas y otras funcionalidades en la aplicación web con Django.
+  * Configurar la aplicación web para conectarse a una base de datos con PostgreSQL.
+
+## Acta: 19/03/2021
+* Asistentes
+
+   Andrés Martin Ochoa Toro <br>
+   Daniel Alejandro Ángel Fuertes <br>
+   Kevin Steven Gámes Abril <br>
+
+* Quién reportó
+
+   Andrés Martin Ochoa
+
+* Contenido
+  
+  Organización y distribución de actividades para el Sprint 2.
+
+  | Nombre Integrante | Número de actividades Asignadas |  Número de actividades completadas | Comentarios y Compromisos |
+  | --------- | ----------- |
+  | Correción features, historias de usuario y ASR's | Todos |
+  | Elaboración de features, historias de usuario y ASR's restantes | Daniel Ángel & Kevin Gámez |
+  | Revisión features, historias de usuario y ASR's | Todos |
+  | Correción modelos existentes  | Todos |
+  | Elaboración modelo de dominio, modelo de componentes, modelo de contexto y modelo de despligue | Todos |
+  | Revisión modelo de dominio, modelo de componentes, modelo de contexto y modelo de despligue | Todos |
+  | Elaboración estructura Wiki | Andrés Ochoa |
+  | Completar información de la Wiki | Todos |
