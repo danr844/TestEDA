@@ -116,12 +116,8 @@ Actas de Laboratorio Arquitectura y Diseño de Software 2021-01:
   Organización y distribución de actividades para el Sprint 2.
 
   | Nombre Integrante | Número de actividades Asignadas |  Número de actividades completadas | Comentarios y Compromisos |
-  | --------- | ----------- |
-  | Correción features, historias de usuario y ASR's | Todos |
-  | Elaboración de features, historias de usuario y ASR's restantes | Daniel Ángel & Kevin Gámez |
-  | Revisión features, historias de usuario y ASR's | Todos |
-  | Correción modelos existentes  | Todos |
-  | Elaboración modelo de dominio, modelo de componentes, modelo de contexto y modelo de despligue | Todos |
-  | Revisión modelo de dominio, modelo de componentes, modelo de contexto y modelo de despligue | Todos |
-  | Elaboración estructura Wiki | Andrés Ochoa |
-  | Completar información de la Wiki | Todos |
+  | ----------------- | ------------------------------- | ---------------------------------- | ------------------------- |
+  | Daniel Ángel | ------------------------------- | ---------------------------------- | ------------------------- |
+  | Kevin Gámes | ------------------------------- | ---------------------------------- | ------------------------- |
+  | Andrés Ochoa | ------------------------------- | ---------------------------------- | ------------------------- |
+  
