@@ -123,8 +123,8 @@ Actas de Laboratorio Arquitectura y Diseño de Software 2021-01:
 
   | Nombre Integrante | Número de actividades Asignadas |  Número de actividades completadas | Comentarios y Compromisos |
   | ----------------- | ------------------------------- | ---------------------------------- | ------------------------- |
-  | Daniel Ángel | 2 | 0 | ------------------------- |
-  | Kevin Gámes | 2 | 0 | ------------------------- |
+  | Daniel Ángel | 2 | 0 | Investigaré las tecnologías adecuadas para usar en el proyecto y cumplir con mis actividades asignadas |
+  | Kevin Gámes | 2 | 0 | Organizaré cada una de las actividades pendientes para poder responder con esto |
   | Andrés Ochoa | 3 | 0 | Dedicaré el tiempo necesario para cumplir con las tareas pendientes que me fueron asignadas |
   
   ¿Cuál es el porcentaje de tareas completadas y SIN completar?
