@@ -5,6 +5,7 @@ Actas de Laboratorio Arquitectura y Diseño de Software 2021-01:
   * [Acta: 05/02/2021](https://github.com/danr844/TestEDA/blob/main/ISIS2503-202101-S2-ARCHITECTOVERFLOWEXCEPTION.wiki/Actas-de-Laboratorios.md#acta-05022021)
   * [Acta: 12/02/2021](https://github.com/danr844/TestEDA/blob/main/ISIS2503-202101-S2-ARCHITECTOVERFLOWEXCEPTION.wiki/Actas-de-Laboratorios.md#acta-12022021)
   * [Acta: 15/02/2021](https://github.com/danr844/TestEDA/blob/main/ISIS2503-202101-S2-ARCHITECTOVERFLOWEXCEPTION.wiki/Actas-de-Laboratorios.md#acta-15022021)
+  * [Acta: 19/03/2021](https://github.com/danr844/TestEDA/blob/main/ISIS2503-202101-S2-ARCHITECTOVERFLOWEXCEPTION.wiki/Actas-de-Laboratorios.md#acta-19032021)
 
 ## Acta: 29/01/2021
 
@@ -122,7 +123,11 @@ Actas de Laboratorio Arquitectura y Diseño de Software 2021-01:
 
   | Nombre Integrante | Número de actividades Asignadas |  Número de actividades completadas | Comentarios y Compromisos |
   | ----------------- | ------------------------------- | ---------------------------------- | ------------------------- |
-  | Daniel Ángel | ------------------------------- | ---------------------------------- | ------------------------- |
-  | Kevin Gámes | ------------------------------- | ---------------------------------- | ------------------------- |
-  | Andrés Ochoa | ------------------------------- | ---------------------------------- | ------------------------- |
+  | Daniel Ángel | 2 | 0 | ------------------------- |
+  | Kevin Gámes | 2 | 0 | ------------------------- |
+  | Andrés Ochoa | 3 | 0 | Dedicaré el tiempo necesario para cumplir con las tareas pendientes que me fueron asignadas |
+  
+  ¿Cuál es el porcentaje de tareas completadas y SIN completar?
+  El porcentaje de tareas completadas es 0 y sin completar es de 7.
+  
   
