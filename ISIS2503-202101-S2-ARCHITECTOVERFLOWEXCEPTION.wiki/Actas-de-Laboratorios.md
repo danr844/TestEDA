@@ -1,10 +1,10 @@
 Actas de Laboratorio Arquitectura y Diseño de Software 2021-01:
 
 * Sprint 1:
-  * [Acta: 29/01/2021](https://github.com/ISIS2503/ISIS2503-202101-S2-ARCHITECTOVERFLOWEXCEPTION/wiki/Actas-de-Laboratorios#acta-29012021)
-  * [Acta: 05/02/2021](https://github.com/ISIS2503/ISIS2503-202101-S2-ARCHITECTOVERFLOWEXCEPTION/wiki/Actas-de-Laboratorios#acta-05022021)
-  * [Acta: 12/02/2021](https://github.com/ISIS2503/ISIS2503-202101-S2-ARCHITECTOVERFLOWEXCEPTION/wiki/Actas-de-Laboratorios#acta-12022021)
-  * [Acta: 15/02/2021](https://github.com/ISIS2503/ISIS2503-202101-S2-ARCHITECTOVERFLOWEXCEPTION/wiki/Actas-de-Laboratorios#acta-15022021)
+  * [Acta: 29/01/2021](https://github.com/danr844/TestEDA/blob/main/ISIS2503-202101-S2-ARCHITECTOVERFLOWEXCEPTION.wiki/Actas-de-Laboratorios.md#acta-29012021)
+  * [Acta: 05/02/2021](https://github.com/danr844/TestEDA/blob/main/ISIS2503-202101-S2-ARCHITECTOVERFLOWEXCEPTION.wiki/Actas-de-Laboratorios.md#acta-05022021)
+  * [Acta: 12/02/2021](https://github.com/danr844/TestEDA/blob/main/ISIS2503-202101-S2-ARCHITECTOVERFLOWEXCEPTION.wiki/Actas-de-Laboratorios.md#acta-12022021)
+  * [Acta: 15/02/2021](https://github.com/danr844/TestEDA/blob/main/ISIS2503-202101-S2-ARCHITECTOVERFLOWEXCEPTION.wiki/Actas-de-Laboratorios.md#acta-15022021)
 
 ## Acta: 29/01/2021
 
