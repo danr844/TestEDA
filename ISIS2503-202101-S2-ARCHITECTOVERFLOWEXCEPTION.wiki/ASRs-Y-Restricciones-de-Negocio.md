@@ -1,8 +1,8 @@
 ## ASR's Sprint 2: 
-  * ###ASR 1 
+  ## ASR 1 
   *  Módulo Académico  -- Latencia :
-  - Como acudiente, dado que el sistema se encuentra en una operatividad alta, cuando solicite descargar el reporte notas de mi acudido, pero obtener el reporte en pdf en un           tiempo no mayor a 4 segundos
-  * ###ASR 2
+  - Como acudiente, dado que el sistema se encuentra en una operatividad alta, cuando solicite descargar el reporte notas de mi acudido, pero obtener el reporte en pdf en un           tiempo no mayor a 4 segundos. 
+  ## ASR 2
   *  Módulo Académico  -- Disponibilidad :
   - Como acudiente, dado que el sistema se encuentra en una operatividad alta, cuando solicite descargar el reporte notas de mi acudido, pero obtener el reporte en pdf con un         porcentaje de éxito mayor a un 95% de los intentos realizados durante este periodo de saturación.
 
