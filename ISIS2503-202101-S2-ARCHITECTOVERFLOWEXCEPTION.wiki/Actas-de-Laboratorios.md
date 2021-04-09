@@ -130,4 +130,23 @@ Actas de Laboratorio Arquitectura y Diseño de Software 2021-01:
   ¿Cuál es el porcentaje de tareas completadas y SIN completar?
   El porcentaje de tareas completadas es 0 y sin completar es de 7.
   
+  ## Acta: 9/04/2021
+* Asistentes
+
+   Andrés Martin Ochoa Toro <br>
+   Daniel Alejandro Ángel Fuertes <br>
+   Kevin Steven Gámes Abril <br>
+
+* Quién reportó
+
+   Andrés Martin Ochoa
+
+* Contenido
+
+En el cierre del sprint 2, se define la siguiente estrella de mar.
+
+![Estrella de Mar](https://cdn.discordapp.com/attachments/808543758311227422/830110816060833822/Estrella_de_Mar.png)
+
+Entre las acciones para mejorar el trabajo en equipo está el hacer los trabajos con más anterioridad a la fecha de entrega.
+Así mismo, el nombre del líder del Sprint 3 es Kevin Steven.
   
