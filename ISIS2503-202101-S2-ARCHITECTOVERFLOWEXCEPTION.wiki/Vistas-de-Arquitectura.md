@@ -27,10 +27,16 @@ Para el caso de Gnosoft Académico, se han definido los siguientes puntos de vis
 
 ## Despliegue
 
+   ### Sprint 1
    Para Gnosoft se definen se define el siguiente modelo de despliegue a partir de las necesidades de Gnosoft. Este modelo está acorde a lo definido en 
    el modelo de componentes.
 
-  ![Modelo de Despliegue](https://cdn.discordapp.com/attachments/770159999967821835/812206602391257109/Modelo_de_Despliegue.jpeg)
+  ![Modelo de Despliegue V_1](https://cdn.discordapp.com/attachments/770159999967821835/812206602391257109/Modelo_de_Despliegue.jpeg)
+  
+  ### Sprint 2 
+   Para esta segunda iteración del proyecto realizado para Gnosoft Académico, se propone el siguiendo modelo de despliege, el cual se divide en diferentes manejadores para        facilitar la modularidad del sistema.
+   
+   ![Modelo de Despliegue V_2](https://cdn.discordapp.com/attachments/819466978774876174/830033429487812678/Modelo_de_Despliegue_4.0.png)
 
 ## Dominio
 
