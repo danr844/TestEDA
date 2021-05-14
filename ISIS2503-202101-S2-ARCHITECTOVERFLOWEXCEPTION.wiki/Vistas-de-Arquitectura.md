@@ -41,7 +41,7 @@ Para el caso de Gnosoft Académico, se han definido los siguientes puntos de vis
    ### Sprint 3 
    Para esta tercera iteración del proyecto realizado para Gnosoft Académico, se propone el siguiendo modelo de despliege, el cual se divide en diferentes manejadores para        facilitar la modularidad del sistema, además, se adiciona el manejador de autorización y autenticación para mejorar y garantizar la seguridad del sistema.
    
-   ![Modelo de Despliegue V_3](https://discord.com/channels/817546975367921665/839731469060276235/842767017391292466)
+   ![Modelo de Despliegue V_3](https://media.discordapp.net/attachments/839731469060276235/842767017190883418/ArquiSoft_-_Pagina_10.png)
    
 ## Dominio
 
