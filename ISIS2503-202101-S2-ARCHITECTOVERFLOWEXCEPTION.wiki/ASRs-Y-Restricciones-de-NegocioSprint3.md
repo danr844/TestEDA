@@ -42,3 +42,17 @@ Las imposiciones de negocio y de tecnología que se tienen para el desarrollo de
        existente y debe promover la escalabilidad e independencia de los procesos.
   * ### Restricción de tecnología 2:
      - La solución propuesta debe ser parametrizable, con el fin de que se adapte a la estructura organizacional y funcional de cada colegio.
+
+## Diagramas
+  
+   Los diagramas propuestos en este Sprint son:
+   
+   ### Diagrama de Componentes:
+     
+   ![Modelo de Componentes](https://cdn.discordapp.com/attachments/752216132488003716/842696791937384478/Diagrama_de_Componentes_-_Sprint_3.png)
+     
+   ### Diagrama de Despliegue:
+   
+   ![Modelo de Despliegue](https://cdn.discordapp.com/attachments/752216132488003716/842697036965085214/Diagra_de_Despliegue_10-05.png)
+   
+
