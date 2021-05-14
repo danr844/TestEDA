@@ -37,7 +37,12 @@ Para el caso de Gnosoft Académico, se han definido los siguientes puntos de vis
    Para esta segunda iteración del proyecto realizado para Gnosoft Académico, se propone el siguiendo modelo de despliege, el cual se divide en diferentes manejadores para        facilitar la modularidad del sistema.
    
    ![Modelo de Despliegue V_2](https://cdn.discordapp.com/attachments/819466978774876174/830033429487812678/Modelo_de_Despliegue_4.0.png)
-
+   
+   ### Sprint 3 
+   Para esta tercera iteración del proyecto realizado para Gnosoft Académico, se propone el siguiendo modelo de despliege, el cual se divide en diferentes manejadores para        facilitar la modularidad del sistema, además, se adiciona el manejador de autorización y autenticación para mejorar y garantizar la seguridad del sistema.
+   
+   ![Modelo de Despliegue V_3](https://discord.com/channels/817546975367921665/839731469060276235/842767017391292466)
+   
 ## Dominio
 
   De acuerdo a los features, historias de usuario y ASR se define el siguiente modelo de dominio. Este modelo representa cada uno de los conceptos 
