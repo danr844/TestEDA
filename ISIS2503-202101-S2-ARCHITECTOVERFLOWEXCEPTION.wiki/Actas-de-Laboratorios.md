@@ -150,3 +150,18 @@ En el cierre del sprint 2, se define la siguiente estrella de mar.
 Entre las acciones para mejorar el trabajo en equipo está el hacer los trabajos con más anterioridad a la fecha de entrega.
 Así mismo, el nombre del líder del Sprint 3 es Kevin Steven.
   
+
+  ## Acta: 7/05/2021
+* Asistentes
+
+   Andrés Martin Ochoa Toro <br>
+   Daniel Alejandro Ángel Fuertes <br>
+   Kevin Steven Gámes Abril <br>
+
+* Quién reportó
+
+   Andrés Martin Ochoa
+
+* Contenido
+  
+  Se hace planeación para la realización del Sprint 3 y la entrega que se realizara la semana próxima a esta fecha. Durante clases se han realizado los diagramas y ayudado a la   elección de las tecnologías para cumplir cada uno de los ASR´S planteados para este Sprint.

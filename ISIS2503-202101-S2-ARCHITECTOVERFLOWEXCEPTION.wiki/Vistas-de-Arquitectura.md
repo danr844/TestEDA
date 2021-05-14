@@ -24,6 +24,14 @@ Para el caso de Gnosoft Académico, se han definido los siguientes puntos de vis
    módulos que cumplirán las funcionalidades esperadas para Gnosoft Académico:
 
   ![Modelo de Componentes](https://cdn.discordapp.com/attachments/770159999967821835/812205860562141204/Modelo_de_Componentes.jpeg)
+  
+  ### Sprint 3
+  
+  Para este Sprint proponemos el siguiente modelo de componentes modificado y adaptado a los requerimientos de seguridad solicitados y las implementaciones inlcuidas de Auth0 entre otras.
+  
+   ![Modelo de Componentes 2](https://media.discordapp.net/attachments/839731469060276235/842768743812694056/ArquiSoft_-_Pagina_11.png)
+
+  
 
 ## Despliegue
 
@@ -37,7 +45,12 @@ Para el caso de Gnosoft Académico, se han definido los siguientes puntos de vis
    Para esta segunda iteración del proyecto realizado para Gnosoft Académico, se propone el siguiendo modelo de despliege, el cual se divide en diferentes manejadores para        facilitar la modularidad del sistema.
    
    ![Modelo de Despliegue V_2](https://cdn.discordapp.com/attachments/819466978774876174/830033429487812678/Modelo_de_Despliegue_4.0.png)
-
+   
+   ### Sprint 3 
+   Para esta tercera iteración del proyecto realizado para Gnosoft Académico, se propone el siguiendo modelo de despliege, el cual se divide en diferentes manejadores para        facilitar la modularidad del sistema, además, se adiciona el manejador de autorización y autenticación para mejorar y garantizar la seguridad del sistema.
+   
+   ![Modelo de Despliegue V_3](https://media.discordapp.net/attachments/839731469060276235/842767017190883418/ArquiSoft_-_Pagina_10.png)
+   
 ## Dominio
 
   De acuerdo a los features, historias de usuario y ASR se define el siguiente modelo de dominio. Este modelo representa cada uno de los conceptos 
