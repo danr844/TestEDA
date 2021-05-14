@@ -24,6 +24,14 @@ Para el caso de Gnosoft Académico, se han definido los siguientes puntos de vis
    módulos que cumplirán las funcionalidades esperadas para Gnosoft Académico:
 
   ![Modelo de Componentes](https://cdn.discordapp.com/attachments/770159999967821835/812205860562141204/Modelo_de_Componentes.jpeg)
+  
+  ### Sprint 3
+  
+  Para este Sprint proponemos el siguiente modelo de componentes modificado y adaptado a los requerimientos de seguridad solicitados y las implementaciones inlcuidas de Auth0 entre otras.
+  
+   ![Modelo de Componentes 2](https://media.discordapp.net/attachments/839731469060276235/842768743812694056/ArquiSoft_-_Pagina_11.png)
+
+  
 
 ## Despliegue
 
