@@ -1,7 +1,7 @@
 Actas de Laboratorio Arquitectura y Diseño de Software 2021-01:
 
-* Sprint 1:
-  * [Acta: 10/05/2021](https://github.com/danr844/TestEDA/blob/main/ISIS2503-202101-S2-ARCHITECTOVERFLOWEXCEPTION.wiki/Actas-de-Laboratorios.md#acta-29012021)
+* Actas de los sprints anteriores:
+  * [Actas anteriores: ](https://github.com/danr844/TestEDA/blob/main/ISIS2503-202101-S2-ARCHITECTOVERFLOWEXCEPTION.wiki/Actas-de-Laboratorios.md#acta-29012021)
  
 ## Acta: 10/05/2021
 
