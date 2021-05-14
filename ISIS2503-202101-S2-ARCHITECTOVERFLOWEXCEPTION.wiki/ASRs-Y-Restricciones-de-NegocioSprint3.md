@@ -1,18 +1,19 @@
 ## ASR's Sprint 3: 
   ## ASR 1 
-  *  Seguridad - Integridad:
+  *  Integridad:
+
   ASR 1: Como profesor, dado que el sistema está funcionando correctamente , cuando una nota de mis estudiantes sea o intente ser modificada, deseo que esta modificación sea        registrada en un log de cambios y esto debe ocurrir en el 99.9999% de los casos. 
 
 Cómo: Admin Log* . 
   ## ASR 2
-  *  Seguridad - Confidencialidad : 
+  *  Confidencialidad : 
 
 ASR 2: Como rector, dado que el sistema está funcionando correctamente, cuando cada uno de los usuarios de la plataforma solicite un servicio, deseo que la solicitud sea aprobada sólo si está permitida en su rol, y esto debe ocurrir en el 99.9999% de los casos. 
 
 Cómo: Auth0 :
   ## ASR 3
   
-  * Seguridad - Disponibilidad : 
+  * Disponibilidad : 
 
 ASR 3: Como acudiente, dado que el sistema se encuentra en una operatividad alta, cuando solicite descargar el reporte notas de mi acudido, pero obtener el reporte en pdf con un porcentaje de éxito mayor a un 95% de los intentos realizados durante este periodo de saturación. 
 
