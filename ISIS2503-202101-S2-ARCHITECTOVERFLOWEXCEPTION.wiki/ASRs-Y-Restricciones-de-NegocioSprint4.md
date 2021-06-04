@@ -1,6 +1,6 @@
 ## ASR's Sprint 3: 
   ## ASR 1 
-  *  Mantenimiento:
+  ## * Mantenimiento:
 
   ASR 1: Como desarrollador, cuando necesite realizar cambios en un módulo,  deseo poder realizar los cambio satisfactoriamente sin tener que modificar muchas dependencias en otros módulos del proyecto, para esto, quiero que el índice de acoplamiento sea menor al 0.82 
 
