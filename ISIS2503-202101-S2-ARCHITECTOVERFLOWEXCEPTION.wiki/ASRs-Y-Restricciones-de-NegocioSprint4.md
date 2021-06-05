@@ -40,7 +40,7 @@ Las imposiciones de negocio y de tecnología que se tienen para el desarrollo de
    
    ### Diagrama de Componentes:
      
-   ![Modelo de Componentes](https://cdn.discordapp.com/attachments/752216132488003716/842696791937384478/Diagrama_de_Componentes_-_Sprint_3.png)
+   ![Modelo de Componentes](https://cdn.discordapp.com/attachments/752216132488003716/850546451163381810/Modelo_de_Componentes_VF.jpeg)
      
    ### Diagrama de Despliegue:
    
