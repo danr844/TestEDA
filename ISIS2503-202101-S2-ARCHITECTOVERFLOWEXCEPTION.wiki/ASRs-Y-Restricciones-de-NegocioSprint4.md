@@ -44,6 +44,6 @@ Las imposiciones de negocio y de tecnología que se tienen para el desarrollo de
      
    ### Diagrama de Despliegue:
    
-   ![Modelo de Despliegue](https://cdn.discordapp.com/attachments/752216132488003716/842697036965085214/Diagra_de_Despliegue_10-05.png)
+   ![Modelo de Despliegue](https://cdn.discordapp.com/attachments/763589972749582336/850583064450039858/Modelo_de_Despliegue_VF.jpeg)
    
 
