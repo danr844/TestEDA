@@ -18,7 +18,7 @@ Actas de Laboratorio Arquitectura y Diseño de Software 2021-01:
 * Contenido
 
    Al final de la sección se planteó:
-     * Definir ASRs a desarrollar con las especificaciones de microservicios, teniendo en cuenta los requerimientos de latencia y mantenibilidad (montar en kong, implementar microservicios, 
+     * Definir ASRs a desarrollar con las especificaciones de microservicios, teniendo en cuenta los requerimientos de latencia y mantenibilidad (montar en kong, implementar microservicios, etc).
      * Definir los escenarios de prueba a desarrollar.
      * Investigar acerca de las herramientas que se van a usar y desarrollar para garantizar mantenibilidad.
      * Investigar qué métricas se pueden implementar para mantenibilidad.
